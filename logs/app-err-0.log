@@ -1,0 +1,1968 @@
+TypeError: Undefined type `undefined` at `require`
+  Did you try nesting Schemas? You can only nest using refs or arrays.
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:644:11)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:597:27)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Mongoose.Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:73:12)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/models/Poem.js:3:29)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+TypeError: Undefined type `undefined` at `require`
+  Did you try nesting Schemas? You can only nest using refs or arrays.
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:644:11)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:597:27)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Mongoose.Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:73:12)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/models/Poem.js:3:29)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+TypeError: Undefined type `undefined` at `require`
+  Did you try nesting Schemas? You can only nest using refs or arrays.
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:644:11)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:597:27)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Mongoose.Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:73:12)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/models/Poem.js:3:29)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+TypeError: Undefined type `undefined` at `require`
+  Did you try nesting Schemas? You can only nest using refs or arrays.
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:644:11)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:597:27)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Mongoose.Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:73:12)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/models/Poem.js:3:29)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+TypeError: Undefined type `undefined` at `required`
+  Did you try nesting Schemas? You can only nest using refs or arrays.
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:644:11)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:597:27)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Mongoose.Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:73:12)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/models/Poem.js:3:29)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+TypeError: Undefined type `undefined` at `required`
+  Did you try nesting Schemas? You can only nest using refs or arrays.
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:644:11)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:597:27)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Mongoose.Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:73:12)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/models/Poem.js:3:29)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+TypeError: Undefined type `undefined` at `required`
+  Did you try nesting Schemas? You can only nest using refs or arrays.
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:644:11)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Function.Schema.interpretAsType (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:597:27)
+    at Schema.path (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:500:29)
+    at Schema.add (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:381:12)
+    at new Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:102:10)
+    at Mongoose.Schema (/Users/zoiiuan/project/develop/poe-api/node_modules/mongoose/lib/schema.js:73:12)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/models/Poem.js:3:29)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+(node:25697) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:25718) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:25729) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:25761) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:25763) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:25812) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: jobs.start is not a function
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:27:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+(node:25829) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:25845) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+TypeError: router is not a function
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:15:9)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/node_modules/pm2/lib/ProcessContainerFork.js:70:21)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.runMain (module.js:605:10)
+    at run (bootstrap_node.js:425:7)
+    at startup (bootstrap_node.js:146:9)
+    at bootstrap_node.js:540:3
+TypeError: router is not a function
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:15:9)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/node_modules/pm2/lib/ProcessContainerFork.js:70:21)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.runMain (module.js:605:10)
+    at run (bootstrap_node.js:425:7)
+    at startup (bootstrap_node.js:146:9)
+    at bootstrap_node.js:540:3
+TypeError: router is not a function
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:15:9)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/node_modules/pm2/lib/ProcessContainerFork.js:70:21)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.runMain (module.js:605:10)
+    at run (bootstrap_node.js:425:7)
+    at startup (bootstrap_node.js:146:9)
+    at bootstrap_node.js:540:3
+TypeError: router is not a function
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:15:9)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/node_modules/pm2/lib/ProcessContainerFork.js:70:21)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.runMain (module.js:605:10)
+    at run (bootstrap_node.js:425:7)
+    at startup (bootstrap_node.js:146:9)
+    at bootstrap_node.js:540:3
+TypeError: router is not a function
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:15:9)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/node_modules/pm2/lib/ProcessContainerFork.js:70:21)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.runMain (module.js:605:10)
+    at run (bootstrap_node.js:425:7)
+    at startup (bootstrap_node.js:146:9)
+    at bootstrap_node.js:540:3
+TypeError: router is not a function
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:15:9)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/node_modules/pm2/lib/ProcessContainerFork.js:70:21)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.runMain (module.js:605:10)
+    at run (bootstrap_node.js:425:7)
+    at startup (bootstrap_node.js:146:9)
+    at bootstrap_node.js:540:3
+TypeError: router is not a function
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:15:9)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/node_modules/pm2/lib/ProcessContainerFork.js:70:21)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.runMain (module.js:605:10)
+    at run (bootstrap_node.js:425:7)
+    at startup (bootstrap_node.js:146:9)
+    at bootstrap_node.js:540:3
+(node:25965) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:25986) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:25999) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+the server/replset/mongos options are deprecated, all their options are supported at the top level of the options object [poolSize,ssl,sslValidate,sslCA,sslCert,sslKey,sslPass,sslCRL,autoReconnect,noDelay,keepAlive,connectTimeoutMS,family,socketTimeoutMS,reconnectTries,reconnectInterval,ha,haInterval,replicaSet,secondaryAcceptableLatencyMS,acceptableLatencyMS,connectWithNoPrimary,authSource,w,wtimeout,j,forceServerObjectId,serializeFunctions,ignoreUndefined,raw,bufferMaxEntries,readPreference,pkFactory,promiseLibrary,readConcern,maxStalenessSeconds,loggerLevel,logger,promoteValues,promoteBuffers,promoteLongs,domainsEnabled,keepAliveInitialDelay,checkServerIdentity,validateOptions,appname,auth]
+the server/replset/mongos options are deprecated, all their options are supported at the top level of the options object [poolSize,ssl,sslValidate,sslCA,sslCert,sslKey,sslPass,sslCRL,autoReconnect,noDelay,keepAlive,connectTimeoutMS,family,socketTimeoutMS,reconnectTries,reconnectInterval,ha,haInterval,replicaSet,secondaryAcceptableLatencyMS,acceptableLatencyMS,connectWithNoPrimary,authSource,w,wtimeout,j,forceServerObjectId,serializeFunctions,ignoreUndefined,raw,bufferMaxEntries,readPreference,pkFactory,promiseLibrary,readConcern,maxStalenessSeconds,loggerLevel,logger,promoteValues,promoteBuffers,promoteLongs,domainsEnabled,keepAliveInitialDelay,checkServerIdentity,validateOptions,appname,auth]
+the server/replset/mongos options are deprecated, all their options are supported at the top level of the options object [poolSize,ssl,sslValidate,sslCA,sslCert,sslKey,sslPass,sslCRL,autoReconnect,noDelay,keepAlive,connectTimeoutMS,family,socketTimeoutMS,reconnectTries,reconnectInterval,ha,haInterval,replicaSet,secondaryAcceptableLatencyMS,acceptableLatencyMS,connectWithNoPrimary,authSource,w,wtimeout,j,forceServerObjectId,serializeFunctions,ignoreUndefined,raw,bufferMaxEntries,readPreference,pkFactory,promiseLibrary,readConcern,maxStalenessSeconds,loggerLevel,logger,promoteValues,promoteBuffers,promoteLongs,domainsEnabled,keepAliveInitialDelay,checkServerIdentity,validateOptions,appname,auth]
+(node:26177) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:26186) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:26230) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:26259) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:26265) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:26280) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:26323) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:26606) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: jobs.start is not a function
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+    at Module.runMain (module.js:607:11)
+    at run (bootstrap_node.js:425:7)
+    at startup (bootstrap_node.js:146:9)
+    at bootstrap_node.js:540:3
+(node:26821) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:26841) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:26858) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+Unable to connect to database
+Unable to connect to database
+(node:27292) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27297) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27308) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27313) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27318) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27323) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27328) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27333) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27338) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27344) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27349) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27354) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27359) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27364) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27381) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27382) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27384) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27385) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27386) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27387) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27388) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27389) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27390) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27391) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+(node:27416) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+Unable to connect to database
+(node:27437) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+Unable to connect to database
+(node:27448) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+Unable to connect to database
+(node:27460) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+Unable to connect to database
+(node:27498) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+Unable to connect to database
+(node:27508) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+Unable to connect to database
+(node:27628) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+/Users/zoiiuan/project/develop/poe-api/app/database/index.js:28
+      .once('openUri', () => resolve(mongoose.connections[0])
+                                                            ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:7:18)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read property '0' of undefined
+    at mongoose.connect.then (/Users/zoiiuan/project/develop/poe-api/app/database/index.js:21:34)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read property '0' of undefined
+    at mongoose.connect.then (/Users/zoiiuan/project/develop/poe-api/app/database/index.js:21:34)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: jobs.start is not a function
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: jobs.start is not a function
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: jobs.start is not a function
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: jobs.start is not a function
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: jobs.start is not a function
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: fetchDynasties is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:3)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: fetchDynasties is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:3)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: undefined is not a promise
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:6:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: undefined is not a promise
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:6:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: undefined is not a promise
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:6:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: undefined is not a promise
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:6:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: undefined is not a promise
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:6:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: undefined is not a promise
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:6:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: undefined is not a promise
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:6:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: undefined is not a promise
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:6:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+TypeError: console.LOG is not a function
+    at Array.osmosis.get.find.set.data (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:12:17)
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:17:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:36:25
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:392:17
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:216:21
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:84:9
+    at done (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:385:14)
+TypeError: console.LOG is not a function
+    at Array.osmosis.get.find.set.data (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:12:17)
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:17:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:36:25
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:392:17
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:216:21
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:84:9
+    at done (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:385:14)
+TypeError: console.LOG is not a function
+    at Array.osmosis.get.find.set.data (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:12:17)
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:17:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:36:25
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:392:17
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:216:21
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:84:9
+    at done (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:385:14)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: undefined is not a promise
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:6:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(find) no results for ".right .sons:nth-child(2) .cont"
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(find) no results for ".right .sons:nth-child(2) .cont"
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(find) no results for ".right > sons .cont"
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+XPath error : Invalid expression
+xmlXPathEval: evaluation failed
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(find) no results for ".right > .sons:nth-child(2) .cont a"
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: syncData is not a function
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:28:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: syncData is not a function
+    at Object.fetchDynasties (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchDynasties.js:28:3)
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+Error: Cannot find module './fetchDynasties'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:1:79)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:5:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:5:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: dynasty.fetchDynasty is not a function
+    at Object.start (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:5:11)
+    at __dirname (/Users/zoiiuan/project/develop/poe-api/app/index.js:28:8)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module './models/Dynasty'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:3:17)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchAttributes.js:13
+        console.log(console.log(item););
+                                    ^
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:4:25)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:8
+  constr dynasies = await fetchAttributes(CONST.OSM_CONFIG.DYNASTY);
+         ^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)

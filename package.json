@@ -1,0 +1,29 @@
+{
+  "name": "poe-api",
+  "version": "1.0.0",
+  "description": "poe",
+  "main": "index.js",
+  "repository": "https://github.com/zoii/poe-api.git",
+  "author": "zoiiuan",
+  "license": "MIT",
+  "dependencies": {
+    "deep-rename-keys": "^0.2.1",
+    "eslint": "^4.7.2",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-logger": "^3.0.1",
+    "koa-router": "^7.2.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.12",
+    "osmosis": "^1.1.4",
+    "pm2": "^2.7.0"
+  },
+  "scripts": {
+    "dev": "pm2-dev start ecosystem.config.js",
+    "start": "node app/index.js",
+    "lint": "eslint app"
+  }
+}
