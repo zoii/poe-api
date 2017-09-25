@@ -1966,3 +1966,713 @@ SyntaxError: Unexpected identifier
     at Module.require (module.js:498:17)
     at require (internal/module.js:20:19)
     at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: fetchPoet is not a function
+    at dynasties.forEach (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:18:5)
+    at Array.forEach (native)
+    at syncPoet (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:17:13)
+    at syncData (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:27:26)
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+TypeError: Cannot build a querystring out of: 
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:16:11)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:37:14
+    at Array.forEach (native)
+    at stringifyObject (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:36:20)
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:10:12)
+    at Needle.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:288:41)
+    at Object.exports.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:670:56)
+    at Request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:16:19)
+    at Osmosis.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:183:5)
+    at Osmosis.queueRequest (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:250:14)
+    at Command.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:367:14)
+    at Command.Get [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:30:10)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:163:22
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+TypeError: Cannot build a querystring out of: 
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:16:11)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:37:14
+    at Array.forEach (native)
+    at stringifyObject (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:36:20)
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:10:12)
+    at Needle.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:288:41)
+    at Object.exports.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:670:56)
+    at Request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:16:19)
+    at Osmosis.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:183:5)
+    at Osmosis.queueRequest (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:250:14)
+    at Command.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:367:14)
+    at Command.Get [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:30:10)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:163:22
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+TypeError: Cannot build a querystring out of: 
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:16:11)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:37:14
+    at Array.forEach (native)
+    at stringifyObject (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:36:20)
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:10:12)
+    at Needle.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:288:41)
+    at Object.exports.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:670:56)
+    at Request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:16:19)
+    at Osmosis.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:183:5)
+    at Osmosis.queueRequest (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:250:14)
+    at Command.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:367:14)
+    at Command.Get [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:30:10)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:163:22
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+TypeError: Cannot build a querystring out of: 
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:16:11)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:37:14
+    at Array.forEach (native)
+    at stringifyObject (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:36:20)
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:10:12)
+    at Needle.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:288:41)
+    at Object.exports.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:670:56)
+    at Request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:16:19)
+    at Osmosis.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:183:5)
+    at Osmosis.queueRequest (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:250:14)
+    at Command.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:367:14)
+    at Command.Get [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:30:10)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:163:22
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+TypeError: Cannot build a querystring out of: 
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:16:11)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:37:14
+    at Array.forEach (native)
+    at stringifyObject (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:36:20)
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:10:12)
+    at Needle.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:288:41)
+    at Object.exports.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:670:56)
+    at Request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:16:19)
+    at Osmosis.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:183:5)
+    at Osmosis.queueRequest (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:250:14)
+    at Command.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:367:14)
+    at Command.Get [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:30:10)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:163:22
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+TypeError: Cannot build a querystring out of: 
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:16:11)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:37:14
+    at Array.forEach (native)
+    at stringifyObject (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:36:20)
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:10:12)
+    at Needle.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:288:41)
+    at Object.exports.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:670:56)
+    at Request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:16:19)
+    at Osmosis.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:183:5)
+    at Osmosis.queueRequest (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:250:14)
+    at Command.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:367:14)
+    at Command.Get [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:30:10)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:163:22
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+TypeError: Cannot build a querystring out of: 
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:16:11)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:37:14
+    at Array.forEach (native)
+    at stringifyObject (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:36:20)
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:10:12)
+    at Needle.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:288:41)
+    at Object.exports.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:670:56)
+    at Request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:16:19)
+    at Osmosis.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:183:5)
+    at Osmosis.queueRequest (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:250:14)
+    at Command.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:367:14)
+    at Command.Get [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:30:10)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:163:22
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+TypeError: Cannot build a querystring out of: 
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:16:11)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:37:14
+    at Array.forEach (native)
+    at stringifyObject (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:36:20)
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:10:12)
+    at Needle.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:288:41)
+    at Object.exports.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:670:56)
+    at Request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:16:19)
+    at Osmosis.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:183:5)
+    at Osmosis.queueRequest (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:250:14)
+    at Command.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:367:14)
+    at Command.Get [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:30:10)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:163:22
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+TypeError: Cannot build a querystring out of: 
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:16:11)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:37:14
+    at Array.forEach (native)
+    at stringifyObject (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:36:20)
+    at stringify (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/querystring.js:10:12)
+    at Needle.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:288:41)
+    at Object.exports.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/node_modules/needle/lib/needle.js:670:56)
+    at Request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Request.js:16:19)
+    at Osmosis.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:183:5)
+    at Osmosis.queueRequest (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:250:14)
+    at Command.request (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:367:14)
+    at Command.Get [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/get.js:30:10)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/index.js:163:22
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+ReferenceError: isEmpty is not defined
+    at Command.osmosis.get.find.set.data.then (/Users/zoiiuan/project/develop/poe-api/app/jobs/fetchPoet.js:22:14)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:67:22
+    at getContextArg (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:85:5)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/then.js:66:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Data [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/data.js:18:5)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at dataDone (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:97:17)
+    at Command.cb (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/set.js:140:17)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+    at Command.Find [as cb] (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/commands/find.js:54:9)
+    at Command.start (/Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:159:21)
+    at /Users/zoiiuan/project/develop/poe-api/node_modules/osmosis/lib/Command.js:166:18
+XPath error : Invalid expression
+.//*[contains(concat(" ",normalize-space(@class)," ")," pages ")]//a：last-child
+                                                                    ^
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(paginate) no results for ".pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]" in http://so.gushiwen.org/authors/Default.aspx?p=11&c=%E6%98%8E%E4%BB%A3
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(paginate) no results for ".pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]" in http://so.gushiwen.org/authors/Default.aspx?p=6&c=%E4%B8%A4%E6%B1%89
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(paginate) no results for ".pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]" in http://so.gushiwen.org/authors/Default.aspx?p=6&c=%E4%B8%A4%E6%B1%89
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(paginate) no results for ".pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]" in http://so.gushiwen.org/authors/Default.aspx?p=6&c=%E4%B8%A4%E6%B1%89
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(paginate) no results for ".pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]" in http://so.gushiwen.org/authors/Default.aspx?p=6&c=%E4%B8%A4%E6%B1%89
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(paginate) no results for ".pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]" in http://so.gushiwen.org/authors/Default.aspx?p=6&c=%E4%B8%A4%E6%B1%89
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(paginate) no results for ".pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]" in http://so.gushiwen.org/authors/Default.aspx?p=6&c=%E4%B8%A4%E6%B1%89
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(paginate) no results for ".pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]" in http://so.gushiwen.org/authors/Default.aspx?p=2&c=%E4%BA%94%E4%BB%A3
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+(paginate) no results for ".pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]" in http://so.gushiwen.org/authors/Default.aspx?p=2&c=%E4%BA%94%E4%BB%A3
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:2:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:2:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+Error: Cannot find module 'promise-maplimit'
+    at Function.Module._resolveFilename (module.js:470:15)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:2:18)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)
+/Users/zoiiuan/project/develop/poe-api/app/jobs/index.js:25
+      return await fetchPoet(dynasty.name);
+                   ^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/zoiiuan/project/develop/poe-api/app/index.js:6:14)

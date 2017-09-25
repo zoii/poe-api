@@ -12,6 +12,9 @@ const OSM_CONFIG = {
     selectors: '.bookcont > span',
     filter: 'name',
   },
+  POET: {
+    uri: 'http://so.gushiwen.org/authors/Default.aspx',
+  },
 };
 
 module.exports = {

@@ -19,7 +19,8 @@
     "moment": "^2.18.1",
     "mongoose": "^4.11.12",
     "osmosis": "^1.1.4",
-    "pm2": "^2.7.0"
+    "pm2": "^2.7.0",
+    "promise-maplimit": "^1.0.1"
   },
   "scripts": {
     "dev": "pm2-dev start ecosystem.config.js",
