@@ -15,6 +15,9 @@ const PoetSchema = mongoose.Schema({
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Poem',
   },
+  poetId: {
+    type: String,
+  },
   dynasty: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Dynasty',

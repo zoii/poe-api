@@ -1,22 +1,24 @@
 const osmosis = require('osmosis');
-const { find } = require('lodash');
+const { find, filter } = require('lodash');
 const utils = require('../utils');
 const CONST = require('../constants');
 const { isEmpty } = require('lodash');
 const Dynasty = require('../models/Dynasty');
 
-
 const fetchPoet = async (keyword) => {
   const list = [];
   let totalPage = 0;
+  let page = 0;
+  const limit = 10;
   const dynasties = await Dynasty.find({});
   const fetch = await new Promise((resolved, rejected) => {
-    osmosis
-      .get(CONST.OSM_CONFIG.POET.uri, { c: keyword, p: 1 })
-      .paginate('.pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]', '.pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"]')
+    osmosis.get(CONST.OSM_CONFIG.POET.uri, { c: keyword, p: 1 })
+      .paginate('.pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"] !+ a[style="width:60px;"]')
       .then((ctx) => {
-        totalPage = ctx.request.count;
+        page = parseInt(ctx.request.params.p, 10);
       })
+      .select('.pages span[style="color:#65645F; background-color:#E1E0C7; border:0px; width:auto;"]')
+      .set('total')
       .find('.sonspic > .cont')
       .set({
         image: '.divimg img@src',
@@ -25,6 +27,10 @@ const fetchPoet = async (keyword) => {
         introduction: 'p[2]',
       })
       .data((listing) => {
+        totalPage = Math.ceil(utils.extractNumber(listing.total) / limit);
+        if (totalPage > 0) {
+          listing.total = null; // eslint-disable-line
+        }
         listing.poetId = utils.extractNumber(listing.page); // eslint-disable-line
         // 将作者关联到朝代中
         const dynasty = find(dynasties, ['name', keyword]);
@@ -33,9 +39,8 @@ const fetchPoet = async (keyword) => {
         }
       })
       .then((ctx, item) => {
-        // console.log(ctx);
         if (!isEmpty(item)) { list.push(item); }
-        if (totalPage > 0) { resolved(list); }
+        if (totalPage === page && ctx.last) { resolved(list); }
       })
       .log(console.log)
       .error((error) => {
